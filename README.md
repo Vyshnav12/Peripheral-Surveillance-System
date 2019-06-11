@@ -1,7 +1,7 @@
 # Peripheral-Surveillance-System
 
 This project consists of a Peripheral Surveillance System made of:
-1. Microwave sensor _(RCWL - 0516)_.
+1. Microwave sensor _(RCWL - 0516/HB100)_.
 2. LIDAR _(LIDAR-Lite V3)_. 
 3. PIR sensors.
 4. IP camera.(Optional)
