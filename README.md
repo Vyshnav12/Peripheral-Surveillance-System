@@ -3,7 +3,6 @@
 This project consists of a Peripheral Surveillance System made of:
 1. Microwave sensor _(RCWL - 0516/HB100)_.
 2. LIDAR _(LIDAR-Lite V3)_. 
-3. PIR sensors.
 4. IP camera.(Optional)
 
 The purpose of this project is to create a fully functional surveillance system that can not only check if there is an intrusion,
