@@ -1,5 +1,5 @@
 
-
+//define pins
 int Sensor = 2;   //Input Pin
 int LED = 13;     // Led pin for Indication
 
